@@ -12,24 +12,24 @@
   Tools ⚒️
 </h2>
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML" title="HTML Documentation" src="https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5&logoColor=white"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML" title="HTML Documentation" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS" title="CSS Documentation" src="https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3&logoColor=white"/>
+    <img alt="CSS" title="CSS Documentation" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" title="JavaScript Documentation" src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="JavaScript" title="JavaScript Documentation" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
 </a>
 
 <a href="https://reactjs.org/">
-    <img alt="React" title="React Documentation" src="https://img.shields.io/badge/React-Expert-blue?style=flat-square&logo=react&logoColor=white"/>
+    <img alt="React" title="React Documentation" src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
 </a>
 
 <a href="https://nextjs.org/">
-    <img alt="Next.js" title="Next.js Documentation" src="https://img.shields.io/badge/Next.js-Expert-black?style=flat-square&logo=next.js&logoColor=white"/>
+    <img alt="Next.js" title="Next.js Documentation" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
 </a>
 </p>
 <!--
