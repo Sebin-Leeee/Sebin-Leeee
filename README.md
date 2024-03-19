@@ -1,5 +1,5 @@
-<h1>Hi! I'm Sebin Lee 👋</h1>
-<p>
+<h1 align="center">Hi! I'm Sebin Lee ✨</h1>
+<p align="center">
   <a href="https://sebinlee.com/">
     <img alt="portfolio" title="Portfolio Link" src="https://img.shields.io/badge/my%20portfolio-8A2BE2"/>
   </a>
@@ -9,12 +9,19 @@
 </p>
 
 <h2>
-  Tools ⚒️
+  ✴︎ About Me
 </h2>
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  I am a UI&UX Designer, Front-end Developer, and Graphic designer. With a passion for crafting seamless digital experiences, I blend my expertise in code with an eye for design aesthetics.
+</p>
+
+<h2>
+  ✴︎ Tools & Technologies 
+</h2>
+<p>
+
     <img alt="HTML" title="HTML Documentation" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white"/>
-</a>
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" title="CSS Documentation" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
@@ -30,6 +37,26 @@
 
 <a href="https://nextjs.org/">
     <img alt="Next.js" title="Next.js Documentation" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+</a>
+
+<a href="https://firebase.google.com/">
+    <img alt="Firebase" title="Firebase" src="https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white"/>
+</a>
+
+<a href="https://git-scm.com/">
+    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</a>
+
+<a href="https://www.adobe.com/">
+    <img alt="Adobe" title="Adobe" src="https://img.shields.io/badge/Adobe-red?style=flat-square&logo=adobe&logoColor=white"/>
+</a>
+
+<a href="https://nodejs.org/">
+    <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
 </a>
 </p>
 <!--
