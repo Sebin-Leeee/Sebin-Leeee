@@ -21,46 +21,20 @@
   Tools & Technologies 
 </h2>
 
+<h3>Development</h3>
 [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS" title="CSS Documentation" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
-</a>
+<h3>Design</h3>
+[![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-pink?style=flat-square&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![After Effects](https://img.shields.io/badge/After%20Effects-green?style=flat-square&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" title="JavaScript Documentation" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
-</a>
-
-<a href="https://reactjs.org/">
-    <img alt="React" title="React Documentation" src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
-</a>
-
-<a href="https://nextjs.org/">
-    <img alt="Next.js" title="Next.js Documentation" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-</a>
-
-<a href="https://firebase.google.com/">
-    <img alt="Firebase" title="Firebase" src="https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase&logoColor=white"/>
-</a>
-
-<a href="https://git-scm.com/">
-    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</a>
-
-<a href="https://www.adobe.com/">
-    <img alt="Adobe" title="Adobe" src="https://img.shields.io/badge/Adobe-red?style=flat-square&logo=adobe&logoColor=white"/>
-</a>
-
-<a href="https://nodejs.org/">
-    <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
-</a>
-</p>
 <!--
 **Sebin-Leeee/Sebin-Leeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
