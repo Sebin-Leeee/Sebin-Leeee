@@ -9,17 +9,21 @@
 </p>
 
 <h2>
-  ✴︎ About Me
+  About Me
 </h2>
 <p>
-  I am a UI&UX Designer, Front-end Developer, and Graphic designer. With a passion for crafting seamless digital experiences, I blend my expertise in code with an eye for design aesthetics.
+  ✴︎ I am a UI&UX Designer, Front-end Developer, and Graphic designer. With a passion for crafting seamless digital experiences, I blend my expertise in code with an eye for design aesthetics. <br/>
+
+  ✴︎ When my laptop gets a break, you'll find me exploring the world, capturing moments through my lens and drawing inspiration from every corner. I'm also a fan of cafe hopping and tea, finding joy in the simple pleasures of life.
 </p>
 
 <h2>
-  ✴︎ Tools & Technologies 
+  Tools & Technologies 
 </h2>
 
-[![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" title="CSS Documentation" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
