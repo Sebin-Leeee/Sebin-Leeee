@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1>Hi! I'm Sebin Lee 👋</h1>
+<p>
+  <a href="https://sebinlee.com/">
+    <img alt="portfolio" title="Portfolio Link" src="https://img.shields.io/badge/my%20portfolio-8A2BE2"/>
+    </a>
+</p>
 
+<h2>
+  Tools
+</h2>
+<p></p>
 <!--
 **Sebin-Leeee/Sebin-Leeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
