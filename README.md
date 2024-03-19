@@ -18,9 +18,9 @@
 <h2>
   ✴︎ Tools & Technologies 
 </h2>
-<p>
-[![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+[![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" title="CSS Documentation" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
 </a>
